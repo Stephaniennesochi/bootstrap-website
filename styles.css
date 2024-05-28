@@ -1,0 +1,24 @@
+body{
+    background-color: #F1E5D1;
+}
+.coverimage{
+    margin-left: 120px;
+}
+.featurette-heading {
+    padding-top: 100px;
+}
+.first{
+    margin-left: 190px;
+}
+.begin{
+    color: black;
+    border: 1px solid black;
+    background-color: lightblue;
+}
+.footer-icon{
+    position: absolute;
+    right: 100px;
+}
+.navbar{
+    padding-top: 20px;
+}
